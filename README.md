@@ -1,11 +1,13 @@
 # Udacity-Linear_Algebra
 Udacity-Linear_Algebra
 
+## 1. Linear Algebra Refresher Course
 
+## 2. Eigenvectors and Eigenvalues
 
 -------
 
-## Linear Algebra Refresher Course
+## 1. Linear Algebra Refresher Course
 A Brief Refresher (with Python!)
 
 This mini-course is intended for students who would like a refresher on the basics of linear algebra. 
@@ -19,7 +21,7 @@ At the end of the course, you will have coded your own personal library of linea
 -------
 
 
-## Eigenvectors and Eigenvalues
+## 2. Eigenvectors and Eigenvalues
 Concepts in Linear Algebra
 
 One of the most interesting topics to visualize in Linear Algebra are Eigenvectors and Eigenvalues. 
